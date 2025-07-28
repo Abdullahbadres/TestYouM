@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 \`\`\`bash
-git clone (https://github.com/Abdullahbadres/testyou.git)
+git clone (https://github.com/Abdullahbadres/TestYouM.git)
 cd youapp
 \`\`\`
 
